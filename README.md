@@ -1,9 +1,10 @@
-
-- 
-- 🌱 b
-- 💞️
-- 📫 c
-
+-IP:173.21.234
+- BROMM:19.298.1
+- DESS:919.9988.11
+- NAME:SOFIA
+- LAST NAME:LENIVSKA
+- CITY:POZNAN
+- LAND:POLAND
   
 
 <!---
